@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Dimensions200420.unity
+    path: Assets/Scenes/OculusPlayground.unity
     guid: 3d80a1fb309b8414093c3c7698fe627c
   m_configObjects: {}
