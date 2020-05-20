@@ -1,5 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp-Editor.dll:
+    - Oculus.Platform.OculusPlatformSettingsEditor
     Assembly-CSharp.dll:
     - FirstPersonCam
     - ONSPSettings
